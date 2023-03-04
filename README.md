@@ -22,7 +22,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 <br />
 
 ## What technical and functional assumptions did you make when implementing your solution?
-As this is a front-end task I persisted the data into the browser cache upon refresh and re-render using useMemo.
+As this is a front-end task I persisted the data into the browser cache upon refresh and re-render using `useMemo`.
 <br />
 <br />
 
