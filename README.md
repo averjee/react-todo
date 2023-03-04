@@ -27,7 +27,7 @@ As this is a front-end task I persisted the data into the browser cache upon ref
 <br />
 
 ## Briefly explain your technical design and why do you think is the best approach to this problem.
-I created a components folder which contains components that can be re-usable for code efficiency i.e. `TodoFooter` and `TodoItem`.<br/>
+I created a components folder which contains components that can be re-usable for code efficiency i.e. `TodoFooter` and `TodoItem`.<br/><br/>
 I wanted to keep the interface clean and easy to use and also wanted to enhance the user experience by doing the following below:<br/>
 1. Adding a "Clear completed" button to clear all completed items.
 2. Implementing an edit feature where if you double-click on any list item you are able to edit the text and save it. <br/> 
